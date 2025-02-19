@@ -69,6 +69,7 @@ postgres
 ## Technical Skills Tested by this Interview
 
 Data Modelling
+
 Writing Queries
 
 ## Prompt
@@ -110,6 +111,10 @@ I don't care if you use it. I do care if you can't write good SQL.
 You will be expected to explain all of your answers to the Data Engineering team.
 
 Use AI wisely.
+
+![img.png](img.png)
+
+Load the fhir model into your Database, and run the seed data command.
 
 **Beginner Level (1-3)**
 
