@@ -165,7 +165,7 @@ Write a query to count how many patients had their first encounter in each month
 
 ## Submission Criteria
 
-All of your work should be located in a Github Repo.
+All of your work should be located in a Github Repo. Please ensure both the data model and SQL queries are within the submission.
 
 Ensure your repo is public, and submit the URL back to the hiring manager.
 
